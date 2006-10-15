@@ -1,0 +1,23 @@
+abstract: Base class for Module::Plan classes
+author: Adam Kennedy <adamk@cpan.org>
+build_requires: 
+  Test::Script: 1.02
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: perl
+name: Module-Plan-Base
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  CPAN: 1.76
+  CPAN::Inject: 0.01
+  Carp: 0
+  File::Basename: 0
+  File::Spec: 0.80
+  File::Which: 0.05
+  Params::Util: 0.10
+  Test::More: 0.42
+  perl: 5.005
+version: 0.03

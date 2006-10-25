@@ -17,7 +17,8 @@ requires:
   File::Basename: 0
   File::Spec: 0.80
   File::Which: 0.05
+  Getopt::Long: 0
   Params::Util: 0.10
   Test::More: 0.42
   perl: 5.005
-version: 0.03
+version: 0.04
